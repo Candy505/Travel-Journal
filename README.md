@@ -1,28 +1,8 @@
-# co45f48d295c2d1d78ede26ee
+# Visit the site at :                               https://meek-bombolone-4a5701.netlify.app/
 
-Quick start:
+- Step 1) How to get this working on vs code live server :  https://www.youtube.com/watch?v=YJTmxONmOGg
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+- Step 2) Deploying on netify :                             https://scrimba.com/learn/netlify/drop-deploy-a-react-app-from-a-scrim-co59a47b29d8e8a12dc75748a
 
-## Development
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+### Additionally this project is already been deployed so you may delete index.pack.js and package-lock.json and follow steps sequentially.
